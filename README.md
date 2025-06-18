@@ -1,9 +1,11 @@
 <!--## Hi there 👋-->
-I'm Murray Miron, owner of [SRLLC](https://www.srllc.org/about). My biggest problem is that there simply aren't enough hours in the day!
+Hi, I'm Murray. My interests could be described as eclectic, but of late I've been focusing on cognitive science (as well as electronic fuel injection).
 ---
-> The trouble with being punctual is that nobody's there to appreciate it.
+> "The whole thinking process is still rather mysterious to us, but I
+believe that the attempt to make a thinking machine will help us
+greatly in finding out how we think ourselves."
 
--- Franklin P. Jones
+-- Alan Turing, 15 May 1951, “Can Digital Machines Think”
 
 <!--
 **mtmiron/mtmiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
